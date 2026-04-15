@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jigar-reviews.github.io/Patriot-Slim-Shot-Reviews-2026-Fat-Loss-Guide/sitemap.xml
